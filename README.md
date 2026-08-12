@@ -1,7 +1,3 @@
-# discussion
+## Collaboration
 
-blah blah..
-change1
-ok 
-
-change 3
+This section documents a collaborative contribution using GitHub pull requests.
